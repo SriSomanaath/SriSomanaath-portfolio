@@ -77,18 +77,30 @@ export class ProfileService {
     },
     {
       'id': '6',
+      'skill': 'NODE.JS',
+      'progress': '70%',
+      'icon': 'assets/images/nodejs.png'
+    },
+    {
+      'id': '7',
+      'skill': 'EXPRESS.JS',
+      'progress': '70%',
+      'icon': 'assets/images/express-js.png'
+    },
+    {
+      'id': '8',
       'skill': 'MONGODB',
       'progress': '75%',
       'icon': 'assets/images/mongoDB.png'
     },
     {
-      'id': '7',
+      'id': '9',
       'skill': 'INFLUX DB',
       'progress': '75%',
       'icon': 'assets/images/influxGrafana.png'
     },
     {
-      'id': '8',
+      'id': '10',
       'skill': 'PYTHON',
       'progress': '70%',
       'icon': 'assets/images/python.png'
