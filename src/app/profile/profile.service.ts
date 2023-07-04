@@ -14,27 +14,37 @@ export class ProfileService {
   ) { }
 
   projects:any = [
-    // {
-    //   id: 1,
-    //   title: 'Read data from Google spreadsheet in Angular',
-    //   desc: '',
-    //   livedemo: '',
-    //   githurl: '',
-    //   mediumlink: '',
-    //   imgUrl: '',
-    //   tech: 'Angular 10 , Google SpreadsheetApi'
-    // },
+    {
+      id: 1,
+      title: 'E-commerce webApp in Angular',
+      desc: '',
+      livedemo: '',
+      githurl: 'https://github.com/SriSomanaath/https---github.com-SriSomanaath-EazyTrove.git',
+      mediumlink: '',
+      imgUrl: 'assets/images/E-commerce.png',
+      tech: 'HTML5,CSS,Typescript,Angular 15'
+    },
 
-    // {
-    //   id: 2,
-    //   title: 'Blog App Using MERN Stack',
-    //   desc: '',
-    //   livedemo: '',
-    //   githurl: '',
-    //   mediumlink: '',
-    //   imgUrl: 'assets/images/z26.png',
-    //   tech: ' Node, MongoDB, Express'
-    // }
+    {
+      id: 2,
+      title: 'Task-manager Using MEAN Stack',
+      desc: '',
+      livedemo: '',
+      githurl: 'https://github.com/SriSomanaath/task-manager.git',
+      mediumlink: '',
+      imgUrl: 'assets/images/taskmanager.png',
+      tech: ' Angular,Node,Express,MongoDB'
+    },
+    {
+      id: 3,
+      title: 'CNC Machine Design using Front-end Technologies',
+      desc: '',
+      livedemo: '',
+      githurl: 'https://github.com/SriSomanaath/task-manager.git',
+      mediumlink: '',
+      imgUrl: 'assets/images/CNCMachn.png',
+      tech: ' HTML,CSS,Angular'
+    }
   ]
   about2 = `
   Worked with Software Development Life Cycle(SDLC) and  agile methodologies .
