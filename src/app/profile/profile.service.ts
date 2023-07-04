@@ -37,13 +37,13 @@ export class ProfileService {
     },
     {
       id: 3,
-      title: 'CNC Machine Design using Front-end Technologies',
+      title: 'CNC Machine using Angular',
       desc: '',
       livedemo: '',
       githurl: 'https://github.com/SriSomanaath/task-manager.git',
       mediumlink: '',
       imgUrl: 'assets/images/CNCMachn.png',
-      tech: ' HTML,CSS,Angular'
+      tech: 'HTML,CSS,Typescript,Angular15'
     }
   ]
   about2 = `
