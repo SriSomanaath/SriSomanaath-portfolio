@@ -45,6 +45,17 @@ export class ProfileService {
       imgUrl: 'assets/images/CNCMachn.png',
       tech: 'HTML,CSS,Typescript,Angular15'
     }
+    ,
+    {
+      id: 4,
+      title: 'Contact-Management App',
+      desc: '',
+      livedemo: '',
+      githurl: 'https://github.com/SriSomanaath/contact-management-app.git',
+      mediumlink: '',
+      imgUrl: 'assets/images/contactManagementApp.png',
+      tech: 'Node.js,Express.js,APIs,MongoDB'
+    }
   ]
   about2 = `
   Worked with Software Development Life Cycle(SDLC) and  agile methodologies .
