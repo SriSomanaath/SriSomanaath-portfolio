@@ -55,6 +55,16 @@ export class ProfileService {
       mediumlink: '',
       imgUrl: 'assets/images/contactManagementApp.png',
       tech: 'Node.js,Express.js,APIs,MongoDB'
+    },
+    {
+      id: 5,
+      title: 'Weather App',
+      desc: '',
+      livedemo: '',
+      githurl: 'https://github.com/SriSomanaath/weatherApp.git',
+      mediumlink: '',
+      imgUrl: 'assets/images/weatherApp.png',
+      tech: 'Open Source APIs, HTML5, CSS, Angular'
     }
   ]
   about2 = `
