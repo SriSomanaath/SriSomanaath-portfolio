@@ -73,7 +73,7 @@ export class ProfileService {
   Have good understanding of Jquery, Bootstrap, InfluxDb,MongoDB`
 
   about = "Lover of innovation and everything related to generate new knowledge.Accept challenging situations and solve them as soon as possible. Very calculated about the time I spend and work I do."
-  resumeurl = "https://drive.google.com/file/d/12fEsQW3ra1kiBewVWbtJyTcr8BZ1Rp5q/view?usp=sharing"
+  resumeurl = "https://drive.google.com/file/d/15t20YQdo6BOZCKO4jYog1iotuTElSHbK/view?usp=sharing"
 
   skillsData: any = [    
     {
