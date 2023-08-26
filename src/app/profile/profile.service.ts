@@ -65,6 +65,16 @@ export class ProfileService {
       mediumlink: '',
       imgUrl: 'assets/images/weatherApp.png',
       tech: 'Open Source APIs, HTML5, CSS, Angular'
+    },
+    {
+      id: 6,
+      title: 'ChatBox App',
+      desc: '',
+      livedemo: '',
+      githurl: 'https://github.com/SriSomanaath/ChatBox.git',
+      mediumlink: '',
+      imgUrl: 'assets/images/chatBox.png',
+      tech: 'HTML5, CSS, Javascript, Node.js, Express.js, Socket.io'
     }
   ]
   about2 = `
