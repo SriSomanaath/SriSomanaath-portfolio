@@ -25,16 +25,16 @@ export class ProfileService {
       tech: 'HTML5,CSS,Typescript,Angular 15'
     },
 
-    {
-      id: 2,
-      title: 'Task-manager Using MEAN Stack',
-      desc: '',
-      livedemo: '',
-      githurl: 'https://github.com/SriSomanaath/task-manager.git',
-      mediumlink: '',
-      imgUrl: 'assets/images/taskmanager.png',
-      tech: ' Angular,Node,Express,MongoDB'
-    },
+    // {
+    //   id: 2,
+    //   title: 'Task-manager Using MEAN Stack',
+    //   desc: '',
+    //   livedemo: '',
+    //   githurl: 'https://github.com/SriSomanaath/task-manager.git',
+    //   mediumlink: '',
+    //   imgUrl: 'assets/images/taskmanager.png',
+    //   tech: ' Angular,Node,Express,MongoDB'
+    // },
     {
       id: 3,
       title: 'CNC Machine using Angular',
@@ -75,6 +75,16 @@ export class ProfileService {
       mediumlink: '',
       imgUrl: 'assets/images/chatBox.png',
       tech: 'HTML5, CSS, Javascript, Node.js, Express.js, Socket.io'
+    },
+    {
+      id: 7,
+      title: 'Enterprise App',
+      desc: '',
+      livedemo: '',
+      githurl: 'https://github.com/SriSomanaath/enterprise-application.git',
+      mediumlink: '',
+      imgUrl: 'assets/images/enterpriseApp.png',
+      tech: 'Angular, Node.js,RESTful APIs, Express.js, MongoDB'
     }
   ]
   about2 = `
