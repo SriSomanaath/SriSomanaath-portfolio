@@ -14,9 +14,9 @@ export class ProjectsComponent implements OnInit {
 
   ngOnInit() {
     this.projects = this.profileService.getProjects()
-    console.log(this.projects)
+    console.log("oooooooo",this.projects)
     this.config = {
-      itemsPerPage: 6,
+      itemsPerPage: 9,
       currentPage: 1,
       totalItems: this.projects.length
     };

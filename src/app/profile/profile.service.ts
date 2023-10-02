@@ -22,7 +22,18 @@ export class ProfileService {
       githurl: 'https://github.com/SriSomanaath/https---github.com-SriSomanaath-EazyTrove.git',
       mediumlink: '',
       imgUrl: 'assets/images/E-commerce.png',
-      tech: 'HTML5,CSS,Typescript,Angular 15'
+      tech: 'HTML5,CSS,Typescript,Angular'
+    }
+    ,
+    {
+      id: 2,
+      title: 'Video Game Platform',
+      desc: '',
+      livedemo: '',
+      githurl: 'https://github.com/SriSomanaath/videoGame.git',
+      mediumlink: '',
+      imgUrl: 'assets/images/videoGame.png',
+      tech: 'Angular,RESTful APIs'
     },
 
     // {
@@ -36,17 +47,6 @@ export class ProfileService {
     //   tech: ' Angular,Node,Express,MongoDB'
     // },
     {
-      id: 3,
-      title: 'CNC Machine using Angular',
-      desc: '',
-      livedemo: '',
-      githurl: 'https://github.com/SriSomanaath/task-manager.git',
-      mediumlink: '',
-      imgUrl: 'assets/images/CNCMachn.png',
-      tech: 'HTML,CSS,Typescript,Angular15'
-    }
-    ,
-    {
       id: 4,
       title: 'Contact-Management App',
       desc: '',
@@ -54,17 +54,17 @@ export class ProfileService {
       githurl: 'https://github.com/SriSomanaath/contact-management-app.git',
       mediumlink: '',
       imgUrl: 'assets/images/contactManagementApp.png',
-      tech: 'Node.js,Express.js,APIs,MongoDB'
+      tech: 'Node.js,Express.js,MongoDB'
     },
     {
       id: 5,
       title: 'Weather App',
       desc: '',
       livedemo: '',
-      githurl: 'https://github.com/SriSomanaath/weatherApp.git',
+      githurl: 'https://github.com/SriSomanaath/weatherAngular.git',
       mediumlink: '',
       imgUrl: 'assets/images/weatherApp.png',
-      tech: 'Open Source APIs, HTML5, CSS, Angular'
+      tech: 'Open Source APIs, HTML, CSS, Angular'
     },
     {
       id: 6,
@@ -85,6 +85,36 @@ export class ProfileService {
       mediumlink: '',
       imgUrl: 'assets/images/enterpriseApp.png',
       tech: 'Angular, Node.js,RESTful APIs, Express.js, MongoDB'
+    },
+    {
+      id: 7,
+      title: 'Quiz App',
+      desc: '',
+      livedemo: '',
+      githurl: 'https://github.com/SriSomanaath/Quiz.git',
+      mediumlink: '',
+      imgUrl: 'assets/images/quizApp.png',
+      tech: 'Angular'
+    },
+    {
+      id: 3,
+      title: 'CNC Machine using Angular',
+      desc: '',
+      livedemo: '',
+      githurl: 'https://github.com/SriSomanaath/task-manager.git',
+      mediumlink: '',
+      imgUrl: 'assets/images/CNCMachn.png',
+      tech: 'Angular'
+    },
+    {
+      id: 3,
+      title: 'To Do List',
+      desc: '',
+      livedemo: '',
+      githurl: 'https://github.com/SriSomanaath/toDoList.git',
+      mediumlink: '',
+      imgUrl: 'assets/images/toDoList.png',
+      tech: 'Angular'
     }
   ]
   about2 = `
@@ -93,7 +123,7 @@ export class ProfileService {
   Have good understanding of Jquery, Bootstrap, InfluxDb,MongoDB`
 
   about = "Lover of innovation and everything related to generate new knowledge.Accept challenging situations and solve them as soon as possible. Very calculated about the time I spend and work I do."
-  resumeurl = "https://drive.google.com/file/d/1FLd2gFK0-mGBME58jkp4_jWJ4l-Mbt_x/view?usp=sharing"
+  resumeurl = "https://drive.google.com/file/d/1pcp3L6jC6TYEju2RrcLbRgsz0spsbQPw/view?usp=sharing"
 
   skillsData: any = [    
     {
